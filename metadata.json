@@ -1,0 +1,6 @@
+{
+  "name": "Mi Descanso",
+  "description": "Pausas activas de 1 minuto, estiramientos, descanso visual y respiración guiada con notificaciones personalizadas según turnos rotativos para el Hospital Universitario del Valle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
